@@ -2,6 +2,7 @@ import sys
 from PyQt6.QtWidgets import QApplication, QMainWindow, QTextEdit, QLineEdit, QPushButton
 from backend import ChatBot
 import threading
+#d
 class ChatbotWindow(QMainWindow):
     def __init__(self):
         super().__init__()
